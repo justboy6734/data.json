@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "weapons": [
+    {
+      "name": "Автомат",
+      "mag": 30,
+      "damage": 34,
+      "fireDelay": 0.11,
+      "spread": 0.008,
+      "pellets": 1,
+      "reloadTime": 1.6
+    },
+    {
+      "name": "Пистолет",
+      "mag": 12,
+      "damage": 28,
+      "fireDelay": 0.2,
+      "spread": 0.006,
+      "pellets": 1,
+      "reloadTime": 1.1
+    },
+    {
+      "name": "Дробовик",
+      "mag": 8,
+      "damage": 20,
+      "fireDelay": 0.8,
+      "spread": 0.06,
+      "pellets": 7,
+      "reloadTime": 2.4
+    },
+    {
+      "name": "Снайперка",
+      "mag": 5,
+      "damage": 100,
+      "fireDelay": 1.1,
